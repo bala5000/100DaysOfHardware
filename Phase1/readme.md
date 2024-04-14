@@ -1,12 +1,10 @@
 # Phase 1
 
-In this segment I will focus on electronics with keeping PCB designing in mind for future.
+In this segment, I will focus on electronics while keeping PCB designing in mind for the future.
 
-PS: I am familiar with basic electronic tools, if you are not do check out youtube videos and purchase kits and tools.
+PS: I am familiar with basic electronic tools, if you are not do check out YouTube videos and purchase kits and tools.
 
-Days can vary by ±2 
-
-If any additional material, code is required it will be updated in this directory only.
+If any additional material, or code is required it will be updated in this directory only.
 
 ---
 
